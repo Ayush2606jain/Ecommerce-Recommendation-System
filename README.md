@@ -33,6 +33,17 @@ A modern, AI-powered ecommerce recommendation system built with Flask, featuring
 - **User Authentication**: Secure sign-in system
 - **Session Management**: Persistent user sessions
 
+## Images
+<img width="1893" height="921" alt="Screenshot 2025-07-12 154817" src="https://github.com/user-attachments/assets/3a69e2e4-f67c-41a4-b85f-0b0db44b83ce" />
+<br><br>
+<img width="1903" height="914" alt="Screenshot 2025-07-12 154849" src="https://github.com/user-attachments/assets/86834a6f-319a-4b7a-8c9b-b09f995ca8ee" />
+<br><br>
+<img width="615" height="659" alt="Screenshot 2025-07-12 154943" src="https://github.com/user-attachments/assets/86cb92e6-7cb0-4ce3-9280-441c9be9129f" />
+<br><br>
+<img width="1879" height="904" alt="Screenshot 2025-07-12 155108" src="https://github.com/user-attachments/assets/6d2b8cc0-6663-4815-9bf8-3182b9e16d53" />
+<br><br>
+
+
 ## 🚀 Installation
 
 ### Prerequisites
