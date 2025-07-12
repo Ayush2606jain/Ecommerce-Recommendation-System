@@ -177,7 +177,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Ayush Jain**
 - GitHub: [@Ayush2606jain](https://github.com/Ayush2606jain)
-- LinkedIn: [Ayush Jain](https://linkedin.com/in/ayush-jain-2606)
+
 
 ## 🙏 Acknowledgments
 
